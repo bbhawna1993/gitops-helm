@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/Jenkins_Clone/Jenkins" value="PREVIEW" />
+        <entry key="C:/MicroServiceClone/Sample-For-Dependency-check" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Jenkins" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/MockitoTutorialForBeginners-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/MySampleJenkinsProject/JenkinsTestProject" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Sample-For-Dependency-check" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/SampleForTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/SampleMicroService" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dxp-gitlab-ci-templates" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/jmeter_clone/jmeter-environments" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/releaseautomation-chart" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/releaseautomation-chart/flux-get-started" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Jenkins" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/KTCOMMONSORIGINAL/kt-commons" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/helm-charts" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/kt-commons" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/release_automation/flux" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/sonarkube/eks" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/spring-application/dxp-spring-application" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/tasks/DEP_BLM-9106/tpp-service-payment-initiation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/template-builder/gitlab-ci-dxp-templates-builder" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/pipelineUnit-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Jenkins" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../jenkins_clone/Jenkins" value="PREVIEW" />
+        <entry key="$USER_HOME$/Pictures/Jenkins" value="PREVIEW" />
+        <entry key="$USER_HOME$/Pictures/JenkinsTestProject" value="PREVIEW" />
+        <entry key="$USER_HOME$/Pictures/gitops-helm/gitops-helm" value="PREVIEW" />
+        <entry key="C:/kube-ms-deploy-clone/kube-ms-deploy" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20152092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
